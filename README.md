@@ -88,9 +88,5 @@ Full parameter list and raw numbers: see `results/backtest_report.html`.
 
 *This is not financial advice. Past performance does not guarantee future results. Use at your own risk.*
 
-## Repo layout
 
 ```
-.
-<img width="808" height="278" alt="a2" src="https://github.com/user-attachments/assets/72601b78-c88a-40eb-a632-618c7ee2f37e" />
-<img width="913" height="454" alt="a1" src="https://github.com/user-attachments/assets/a68c0497-0916-4cb9-b1b4-166960ff891f" />
