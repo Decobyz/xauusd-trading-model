@@ -1,4 +1,5 @@
 
+
 # xauusd-trading-model
 Quantitative research and backtesting of an algorithmic XAUUSD trading model using cTrader.
 # Gold Adaptive Regime cBot: XAUUSD H4 backtest
@@ -8,6 +9,7 @@ A cTrader cBot for gold (XAUUSD) on the H4 chart. It trades moving-average cross
 > **Status:** single backtest, one market regime, one 9-month window. Treat it as a starting point for discussion, not evidence of a live edge. See [Caveats](#caveats).
 
 ## Results (backtest)
+<img width="913" height="454" alt="a1" src="https://github.com/user-attachments/assets/c1b1f8e3-58e3-45be-9378-938d8a5a680a" />
 
 | | |
 |---|---|
@@ -29,6 +31,7 @@ A cTrader cBot for gold (XAUUSD) on the H4 chart. It trades moving-average cross
 | Costs paid | commissions -$12.00, swaps -$12.54 |
 
 ![Equity curve](results/equity_curve.png)
+<img width="808" height="278" alt="a2" src="https://github.com/user-attachments/assets/f014c6d5-c12e-4255-a81c-5f46eb0ff083" />
 
 ### Monthly P&L (by trade close date)
 
@@ -85,6 +88,8 @@ Full parameter list and raw numbers: see `results/backtest_report.html`.
 - **Position sizing.** Every trade used the minimum volume, so the 1% risk parameter was not what set trade size here. The largest loss (-$226.28) was about 4.5% of starting capital.
 - **No out-of-sample test yet.** Parameters were not validated on data outside this window.
 - **Backtests are not live results.** Slippage, requotes, and execution differences are not modelled.
+
+<img width="794" height="426" alt="a3" src="https://github.com/user-attachments/assets/1a8411a5-a354-4379-afb2-62ef80803897" />
 
 *This is not financial advice. Past performance does not guarantee future results. Use at your own risk.*
 
