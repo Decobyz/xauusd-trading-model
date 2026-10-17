@@ -1,4 +1,4 @@
-<img width="738" height="463" alt="a4" src="https://github.com/user-attachments/assets/94a198d9-b3dc-416a-85ca-20de92675fae" />
+
 # xauusd-trading-model
 Quantitative research and backtesting of an algorithmic XAUUSD trading model using cTrader.
 # Gold Adaptive Regime cBot: XAUUSD H4 backtest
