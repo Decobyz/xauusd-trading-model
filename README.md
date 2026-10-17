@@ -1,3 +1,4 @@
+<img width="738" height="463" alt="a4" src="https://github.com/user-attachments/assets/94a198d9-b3dc-416a-85ca-20de92675fae" />
 # xauusd-trading-model
 Quantitative research and backtesting of an algorithmic XAUUSD trading model using cTrader.
 # Gold Adaptive Regime cBot: XAUUSD H4 backtest
@@ -91,15 +92,5 @@ Full parameter list and raw numbers: see `results/backtest_report.html`.
 
 ```
 .
-├── README.md
-├── src/                 # cBot source (.cs)
-├── params/              # .cbotset used for this run
-└── results/
-    ├── backtest_report.html
-    └── equity_curve.png
-```
-
-## License
-
-Add a license of your choice (e.g. MIT) before making the repo public.<img width="808" height="278" alt="a2" src="https://github.com/user-attachments/assets/72601b78-c88a-40eb-a632-618c7ee2f37e" />
+<img width="808" height="278" alt="a2" src="https://github.com/user-attachments/assets/72601b78-c88a-40eb-a632-618c7ee2f37e" />
 <img width="913" height="454" alt="a1" src="https://github.com/user-attachments/assets/a68c0497-0916-4cb9-b1b4-166960ff891f" />
